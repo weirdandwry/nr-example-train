@@ -6,7 +6,7 @@ desc=testing 1 2 3
 version=2.0.0
 
 [TrainUnit]
-schema=1
+schema=2
 id=test1_loco
 name_loc=test1_name_loco
 name_en=TestTrain Loco
